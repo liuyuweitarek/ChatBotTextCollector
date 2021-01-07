@@ -1,9 +1,8 @@
 # ChatBotTextCollector
 ## Quick Start
 1. clone the project
-2.
 ```
-$python run.py
+2. $python run.py
 ```
 (Note: 目前僅支援使用Chrome瀏覽器，請確保本機目前的Chrome瀏覽器版本為最新版：https://chromedriver.chromium.org)
 
